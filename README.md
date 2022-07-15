@@ -5,3 +5,4 @@ These projects uses C programming language and assistance were taken from intern
 Lab 3 - Infix expression to a postfix one  
 Lab 4 - Selection sort (iterative and recursive)  
 Lab 5 - Breadth First Search using adjacency matrix  
+Lab 6 - Insertion Sort
