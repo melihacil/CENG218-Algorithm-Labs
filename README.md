@@ -7,3 +7,4 @@ Lab 4 - Selection sort (iterative and recursive)
 Lab 5 - Breadth First Search using adjacency matrix  
 Lab 6 - Insertion Sort  
 Lab 7 - Hash functions
+Lab 8 - Merge Sort
